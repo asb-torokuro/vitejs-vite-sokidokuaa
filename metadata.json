@@ -1,0 +1,5 @@
+{
+  "name": "Speed Reading App",
+  "description": "A speed reading training app that generates text and comprehension questions.",
+  "requestFramePermissions": []
+}
